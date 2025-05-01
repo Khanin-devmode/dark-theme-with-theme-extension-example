@@ -1,4 +1,4 @@
-# dark_mode_theme_extension
+# dark-theme-with-theme-extension-example
 
 A new Flutter project.
 
